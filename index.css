@@ -3,7 +3,7 @@ body{
     height: 100vh;
     padding: 0;
     margin: 0;
-    background: rgba(0, 119, 255, 0.767);
+    background: green;
     display: grid;
     grid-template: 6% 94% / 10% 80% 10%;
 }
